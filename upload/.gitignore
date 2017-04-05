@@ -9,4 +9,12 @@ data/sysdata
 
 data/install.lock
 data/sendmail.lock
+
 install/index.php
+data/backup/index.htm
+
+uc_client/data/cache/
+
+uc_server/data/config.inc.php
+uc_server/data/install.lock
+uc_server/data/upgrade.lock
