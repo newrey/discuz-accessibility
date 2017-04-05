@@ -1,5 +1,5 @@
 config/config_global.php
 config/config_ucenter.php
 
-data/backup
+data/backup_*
 install
