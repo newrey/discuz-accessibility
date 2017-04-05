@@ -3,4 +3,6 @@ config/config_ucenter.php
 
 data/backup_*
 data/cache
+data/log
+data/sendmail.lock
 install
