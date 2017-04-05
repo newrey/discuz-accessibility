@@ -9,4 +9,4 @@ data/sysdata
 
 data/install.lock
 data/sendmail.lock
-install
+install/index.php
